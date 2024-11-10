@@ -22,5 +22,15 @@ public class SampleRev {
 		System.out.println("Meth4");
 
 	}
+	
+	public void meth7() {
+		System.out.println("Meth7");
+
+	}
+	
+	public void meth8() {
+		System.out.println("Meth8");
+
+	}
 
 }
