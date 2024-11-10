@@ -23,18 +23,31 @@ public class SampleRev {
 
 	}
 	
-   public void meth5()
-   {
+	 public void meth5()
+	   {
+		   
+		   System.out.println("Meth 5");
+	   }
 	   
-	   System.out.println("Meth 5");
-   }
-   
-   public void meth6()
-   {
+	   public void meth6()
+	   {
+		   
+		   System.out.println("Meth 6");
+	   }
 	   
-	   System.out.println("Meth 6");
-   }
+	public void meth7() {
+		System.out.println("Meth7");
+
+	}
+	
+	public void meth8() {
+		System.out.println("Meth8");
+
+	}
+
+  
 	
 	
+
 
 }
